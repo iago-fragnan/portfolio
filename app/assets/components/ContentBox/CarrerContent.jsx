@@ -13,8 +13,8 @@ export default function CarrerContent() {
             <div className='px-12'>
                 <ol className="relative border-s border-purple-600">
 
-                    <CarrerPath title="ETEC Joaquim Ferreira do Amaral | Jaú - SP" description="Análise e Desenvolvimento de Sistemas integrado ao Ensino Médio." startDate="2022" endDate="2024" />
-                    <CarrerPath title="Universidade de Araraquara | Araraquara - SP" description="Sistemas de Informação (Bacharelado)." startDate="2025" endDate="Atualmente" />
+                    <CarrerPath title="ETEC Joaquim Ferreira do Amaral | Jaú - SP" description="Análise e Desenvolvimento de Sistemas integrado ao Ensino Médio." details="Presencial e Período Integral" startDate="2022" endDate="2024" />
+                    <CarrerPath title="Universidade de Araraquara | Araraquara - SP" description="Sistemas de Informação (Bacharelado)." details="Presencial e Período Noturno" startDate="2025" endDate="Atualmente" />
 
                 </ol>
             </div>
