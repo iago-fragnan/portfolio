@@ -64,7 +64,7 @@ export default function AboutBox() {
                     <div className="grid grid-cols-5 w-3/4 mx-auto mb-14">
                         <AboutFooterItem icon={instagram} ref="https://www.instagram.com/iago.fragnan/" isDownloadable={false} />
                         <AboutFooterItem icon={youtube} ref="https://www.youtube.com/@iagofdev" isDownloadable={false} />
-                        <AboutFooterItem icon={github} ref="https://github.com/iagof-dev" isDownloadable={false} />
+                        <AboutFooterItem icon={github} ref="https://github.com/iago-fragnan" isDownloadable={false} />
                         <AboutFooterItem icon={discord} ref="https://discord.gg/3UqkW3bpYp" isDownloadable={false} />
                         <AboutFooterItem icon={cv} ref="/assets/curriculo.pdf" isDownloadable={true} />
                     </div>
