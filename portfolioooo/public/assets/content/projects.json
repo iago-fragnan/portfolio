@@ -1,0 +1,65 @@
+[
+    {
+        "name": "N3rdy Tesouro",
+        "description": "Um jogo dentro do Minecraft utilizando Arduino para encontrar um tesouro, juntamente com um sistema de pontuação e ranking.",
+        "stack": ["Arduino", "PHP", "Java", "MySQL"],
+        "image": "n3rdytesouro.gif",
+        "url": "https://github.com/iago-fragnan/tesouro_expotec",
+        "start_date": "2024-04-04",
+        "end_date": "2024-11-30"
+    },
+    {
+        "name": "Sistema de gerenciamento da Biblioteca Escolar",
+        "description": "Trabalho de Conclusão de Curso da Etec Joaquim Ferreira do Amaral, um sistema desktop para gerenciar o empréstimo de livros, cadastro de usuários e controle de inventário da biblioteca escolar.",
+        "stack": ["Electron", "React", "PHP", "JavaScript", "MySQL"],
+        "image": "tcc-sistema-biblioteca.webp",
+        "url": "https://github.com/iago-fragnan/TCC",
+        "start_date": "2024-03-18",
+        "end_date": "2024-11-18"
+    },
+    {
+        "name": "Boneto e Ramalho Imobiliaria",
+        "description": "WSite imobiliário realizado de forma freelance, utilizando PHP e jQuery. O site conta com funcionalidades completas, incluindo Google SEO, um painel administrativo e uma interface intuitiva para usuários e listagem de imóveis.",
+        "stack": ["PHP", "JavaScript", "MySQL"],
+        "image": "bonetoeramalho.webp",
+        "url": "https://github.com/iago-fragnan/bonetoeramalho",
+        "start_date": "2024-04-18",
+        "end_date": "2024-11-24"
+    },
+    {
+        "name": "N3rdy Generator",
+        "description": "N3rdyGenerator Foi um projeto iniciado em 07/2019, com intuito de gerar contas de Minecraft, Spotify, Steam e até Discord Nitro. Projeto foi Encerrado no final de 2019 e teve o projeto refeito em 2020 mas sem sucesso de concluir.",
+        "stack": ["VB.NET", "HTML", "CSS"],
+        "image": "NG-Project.webp",
+        "url": "https://github.com/iago-fragnan/N3rdyGenerator",
+        "start_date": "2018",
+        "end_date": "2019"
+    },
+    {
+        "name": "Byte Store",
+        "description": "Projeto de um E-COMMERCE feito em PHP, com sistema de login, carrinho de compras, painel administrativo para gerenciar produtos e pedidos. Projeto foi iniciado em 2019 e encerrado no final do mesmo ano.",
+        "stack": ["PHP", "MySQL", "JavaScript"],
+        "image": "ByteStore.webp",
+        "url": "https://github.com/iago-fragnan/ByteStore",
+        "start_date": "2023-03-01",
+        "end_date": "2024-03-08"
+    },
+    {
+        "name": "Hazardit",
+        "description": "",
+        "stack": ["VB.NET"],
+        "image": "prj-hazardit.gif",
+        "url": null,
+        "start_date": "2017",
+        "end_date": "2018"
+    },
+    {
+        "name": "UniBank",
+        "description": "Unibank foi um desafio de uma prova de projeto escolar desenvolver um banco digital inovador e moderno, que atenda às necessidades financeiras dos jovens de forma segura e eficiente. Com objetivo de criar uma marca e identidade visual.",
+        "stack": ["C#", "MySQL"],
+        "image": "prj-unibank.gif",
+        "url": "https://github.com/iago-fragnan/unibank",
+        "start_date": "2022-07-01",
+        "end_date": "2022-09-27"
+    }
+]
