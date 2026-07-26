@@ -1,0 +1,29 @@
+{
+  "name": "Iago Fragnan",
+  "DOB": {
+    "day": 23,
+    "month": 10,
+    "year": 2006
+  },
+  "social_medias": {
+    "youtube": "https://www.youtube.com/@iago-fragnan",
+    "instagram": "https://instagram.com/iago.fragnan",
+    "linkedin": "https://linkedin.com/in/iago-fragnan",
+    "github": "https://github.com/iago-fragnan",
+    "email": "iago.fragnan@gmail.com"
+  },
+  "location": {
+    "city": "Araraquara",
+    "state": "São Paulo",
+    "country": "Brasil",
+    "stateCode": "SP"
+  },
+  "pt-BR": {
+    "role": "Desenvolvedor Fullstack",
+    "history": "Eu sou Iago Fragnan, desenvolvedor autodidata de {age} anos, nascido em 23 de outubro de 2006, desde cedo fascinado pelo mundo da informática. Sempre me perguntei como programas, sistemas e jogos eram criados e funcionavam por trás, o que despertou uma curiosidade que se transformou na paixão que guia minha jornada profissional até hoje. Desde então, dediquei minha vida ao aprendizado e ao desenvolvimento, transformando aquela curiosidade em projetos reais. Hoje com experiência em PHP, C#, Java e outras linguagens de programação, aplico meu conhecimento para construir sistemas que tendem a resolver problemas e otimizar processos. Durante minha formação em Análise e Desenvolvimento de Sistemas pela ETEC Joaquim Ferreira do Amaral, participei de projetos que ajudaram a evoluir muito minhas habilidades. Minha paixão pela vontade de aprender constantemente me levou a aprender sozinho ferramentas e linguagens de programação. A tecnologia, para mim, é mais do que um trabalho; é uma forma de transformar ideias em realidade e de continuar explorando o que me fascina desde a infância."
+  },
+  "en-US": {
+    "role": "Fullstack Developer",
+    "history": "I am Iago Fragnan, a self-taught developer of {age} years old, born on October 23, 2006, and have been fascinated by the world of computer science since early on. I have always wondered how programs, systems and games were created and functioned behind the scenes, which sparked a curiosity that transformed into the passion that guides my professional journey to this day. Since then, I have dedicated my life to learning and development, transforming that curiosity into real projects. Today, with experience in PHP, C#, Java and other programming languages, I apply my knowledge to build systems that tend to solve problems and optimize processes. During my studies in Analysis and System Development at ETEC Joaquim Ferreira do Amaral, I participated in projects that helped me improve my skills greatly. My passion for the desire to learn constantly led me to study tools and programming languages on my own. For me, technology is more than just a job; it is a way to transform ideas into reality and continue exploring what fascinates me since childhood."
+  }
+}
